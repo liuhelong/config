@@ -33,4 +33,12 @@ class ConfigModel extends Model
             $this->attributes['value'] = $value;
         }
     }
+    public function setImageAttribute($value)
+    {
+        $this->attributes['value'] = $value;
+    }
+	public function getImageAttribute()
+    {
+        return $this->value;
+    }
 }
