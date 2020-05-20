@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/config",
+    "name": "liuhelong/config",
     "description": "Config extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "setting"],
-    "homepage": "https://github.com/laravel-admin-extensions/config",
+    "homepage": "https://github.com/liuhelong/config",
     "license": "MIT",
     "authors": [
         {
-            "name": "z-song",
-            "email": "zosong@126.com"
+            "name": "liuhelong",
+            "email": "#"
         }
     ],
     "require": {
