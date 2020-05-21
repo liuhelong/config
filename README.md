@@ -1,7 +1,7 @@
 Config manager for laravel-admin
 ========================
 
-prower by https://github.com/laravel-admin-extensions/config(https://github.com/laravel-admin-extensions/config)
+prower by https://github.com/laravel-admin-extensions/config
 ## Screenshot
 
 ![wx20170810-100226](https://user-images.githubusercontent.com/1479100/29151322-0879681a-7db3-11e7-8005-03310686c884.png)
