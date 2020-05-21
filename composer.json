@@ -22,13 +22,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Encore\\Admin\\Config\\": "src/"
+            "Liuhelong\\Config\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Encore\\Admin\\Config\\ConfigServiceProvider"
+                "Liuhelong\\ConfigServiceProvider"
             ]
         }
     }
